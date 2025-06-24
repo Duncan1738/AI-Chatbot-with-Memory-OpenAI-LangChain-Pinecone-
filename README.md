@@ -21,7 +21,7 @@ Set these in your environment:
 export OPENAI_API_KEY="your-openai-key"
 export PINECONE_API_KEY="your-pinecone-key"
 
-🎮 How to Use
+How to Use
 1️⃣ Open the ai_chatbot.ipynb notebook in Google Colab or Jupyter.
 2️⃣ Run all cells to initialize OpenAI & Pinecone.
 3️⃣ Start chatting! The AI will remember past interactions.
