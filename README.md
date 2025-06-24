@@ -4,7 +4,7 @@ This project builds an **AI-powered chatbot** that maintains memory using **Pine
 
 ## Features
 - ✅ **Understands natural conversations with GPT-4**
-- 🧠 **Remembers previous messages using Pinecone**
+-  **Remembers previous messages using Pinecone**
 - 🔥 **Works in Google Colab or locally**
 - ⚡ **Retrieves past chats for better context-aware responses**
 
