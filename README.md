@@ -26,7 +26,7 @@ How to Use
 2️⃣ Run all cells to initialize OpenAI & Pinecone.
 3️⃣ Start chatting! The AI will remember past interactions.
 
-🎯 Example
+ Example
 User Input:
 Hey AI, what’s the capital of France?
 
