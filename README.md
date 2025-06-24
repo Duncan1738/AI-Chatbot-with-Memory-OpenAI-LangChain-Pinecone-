@@ -37,5 +37,4 @@ And what’s its population?
 AI (Remembers Previous Chat):
 Paris has a population of approximately 2.1 million.
 
-👥 Contributor
-Duncan Kibet
+
