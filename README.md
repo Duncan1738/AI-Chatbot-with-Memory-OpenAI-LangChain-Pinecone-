@@ -12,7 +12,7 @@ This project builds an **AI-powered chatbot** that maintains memory using **Pine
 ```sh
 pip install openai langchain pinecone-client dotenv
 
-📥 API Keys Required
+ API Keys Required
 You'll need:
 
 OpenAI API Key (For generating responses)
