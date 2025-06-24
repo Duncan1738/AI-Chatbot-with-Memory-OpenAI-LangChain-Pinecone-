@@ -8,7 +8,7 @@ This project builds an **AI-powered chatbot** that maintains memory using **Pine
 -  **Works in Google Colab or locally**
 -  **Retrieves past chats for better context-aware responses**
 
-## 🛠 Installation
+##  Installation
 ```sh
 pip install openai langchain pinecone-client dotenv
 
