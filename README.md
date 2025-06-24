@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot with Memory (OpenAI + Pinecone + LangChain)
+# AI Chatbot with Memory (OpenAI + Pinecone + LangChain)
 
 This project builds an **AI-powered chatbot** that maintains memory using **Pinecone** and **OpenAI's GPT-4**.
 
