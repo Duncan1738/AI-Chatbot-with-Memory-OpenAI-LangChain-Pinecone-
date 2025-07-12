@@ -26,15 +26,14 @@ This project builds an **AI-powered chatbot** that maintains memory using **Pine
 - Run all cells to initialize OpenAI & Pinecone.
 - Start chatting! The AI will remember past interactions.
 ---
- Example
-User Input:
-Hey AI, what’s the capital of France?
+### Example
+- User Input:Hey AI, what’s the capital of France?
 
-AI Response:
+- AI Response:
 The capital of France is Paris.
-User (Later):
+-User (Later):
 And what’s its population?
-AI (Remembers Previous Chat):
+-AI (Remembers Previous Chat):
 Paris has a population of approximately 2.1 million.
 
 
