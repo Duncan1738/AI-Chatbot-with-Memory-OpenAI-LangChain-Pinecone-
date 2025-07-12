@@ -1,7 +1,7 @@
 # AI Chatbot with Memory (OpenAI + Pinecone + LangChain)
 
 This project builds an **AI-powered chatbot** that maintains memory using **Pinecone** and **OpenAI's GPT-4**.
----
+
 ## Features
 -  **Understands natural conversations with GPT-4**
 -  **Remembers previous messages using Pinecone**
@@ -21,11 +21,11 @@ This project builds an **AI-powered chatbot** that maintains memory using **Pine
 - export OPENAI_API_KEY="your-openai-key"
 - export PINECONE_API_KEY="your-pinecone-key"
 ---
-How to Use
-1️⃣ Open the ai_chatbot.ipynb notebook in Google Colab or Jupyter.
-2️⃣ Run all cells to initialize OpenAI & Pinecone.
-3️⃣ Start chatting! The AI will remember past interactions.
-
+### How to Use
+- Open the ai_chatbot.ipynb notebook in Google Colab or Jupyter.
+- Run all cells to initialize OpenAI & Pinecone.
+- Start chatting! The AI will remember past interactions.
+---
  Example
 User Input:
 Hey AI, what’s the capital of France?
