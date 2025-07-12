@@ -9,17 +9,16 @@ This project builds an **AI-powered chatbot** that maintains memory using **Pine
 -  **Retrieves past chats for better context-aware responses**
 
 ##  Installation
-```sh
-pip install openai langchain pinecone-client dotenv
 
- API Keys Required
-You'll need:
+- pip install openai langchain pinecone-client dotenv
 
-OpenAI API Key (For generating responses)
-Pinecone API Key (For memory storage)
-Set these in your environment:
-export OPENAI_API_KEY="your-openai-key"
-export PINECONE_API_KEY="your-pinecone-key"
+## API Keys Required: You'll need:
+
+- OpenAI API Key (For generating responses)
+- Pinecone API Key (For memory storage)
+- Set these in your environment:
+- export OPENAI_API_KEY="your-openai-key"
+- export PINECONE_API_KEY="your-pinecone-key"
 
 How to Use
 1️⃣ Open the ai_chatbot.ipynb notebook in Google Colab or Jupyter.
