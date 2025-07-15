@@ -28,7 +28,6 @@ This project builds an **AI-powered chatbot** that maintains memory using **Pine
 ---
 ### Example
 - User Input:Hey AI, what’s the capital of France?
-
 - AI Response:
 The capital of France is Paris.
 -User (Later):
